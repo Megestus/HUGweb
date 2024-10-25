@@ -5,7 +5,7 @@ title: Home
 heroImage: /MainUI.png
 bgImageStyle:
   background-attachment: fixed
-heroText: HUGToolBox
+heroText: HUGTool
 tagline: 快捷、高效、集合的HUG定制工具集 
 actions:
   - text: 快速部署
